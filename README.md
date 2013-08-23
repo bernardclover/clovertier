@@ -3,6 +3,8 @@ clovertier
 
 A simple text-based haggling simulation that demonstrates a couple of API calls from Clover. Based on the Japanese indie game Recettear.
 
+clover_api.py is an API caller utility, which I modified from Chenyang Yuan's original version: https://bitbucket.org/yuanchenyang/clover-example-server
+
 You will need to need to generate an API token for this app to work. Follow these steps to get one:
 
 1. Create an account at https://www.clover.com/developers
