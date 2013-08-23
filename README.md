@@ -4,6 +4,7 @@ clovertier
 A simple text-based haggling simulation that demonstrates a couple of API calls from Clover. Based on the Japanese indie game Recettear.
 
 You will need to need to generate an API token for this app to work. Follow these steps to get one:
+
 1. Create an account at https://www.clover.com/developers
 2. Sign in to your account at https://www.clover.com/manage
 3. Go to Settings > API Tokens
@@ -15,7 +16,8 @@ You will also need your merchant ID, which is just a 13-character alphanumeric s
 
 With an API token and a merchant ID in hand, replace the empty strings for TOKEN and MERCHANT_ID in api_token.py.
 
-To make the game as is actually fun, you need the following categories with items:
+To make the game as is actually fun, you need to go into the web dashboard and add the following categories with items:
+
 1. drinks
 2. equipment
 3. toys
