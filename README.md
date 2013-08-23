@@ -3,6 +3,8 @@ clovertier
 
 A simple text-based haggling simulation that demonstrates a couple of API calls from Clover. Based on the Japanese indie game Recettear.
 
+In Clovertier, you play as a young boy named Clo whose father, like Recette's, has vanished and left him with a substantial debt. Furthermore, Vertier, a stuffed kitty representative of Clover Network, Inc. demands some part of the debt to be paid off in 480 minutes. Clo opens an item shop as a last ditch effort to pay off the debt.
+
 clover_api.py is an API caller utility, which I modified from Chenyang Yuan's original version: https://bitbucket.org/yuanchenyang/clover-example-server
 
 You will need to need to generate an API token for this app to work. Follow these steps to get one:
