@@ -12,7 +12,7 @@ You will need to need to generate an API token for this app to work. Follow thes
 5. Click on [Generate Token]
 6. Enable all read and write permissions on this token
 
-You will also need your merchant ID, which is just a 13-character alphanumeric string. Sign into your Clover account and look for it after merchant/ in the URL. For example, PTEXTPYDZ6K4C is the merchant ID in the URL https://www.clover.com/manage/merchant/PTEXTPYDZ6K4C/home.
+You will also need your merchant ID, which is just a 13-character alphanumeric string. Sign into your Clover account and observe the path parameter after "merchant" in the URL. For example, PTEXTPYDZ6K4C is the merchant ID in the URL https://www.clover.com/manage/merchant/PTEXTPYDZ6K4C/home.
 
 With an API token and a merchant ID in hand, replace the empty strings for TOKEN and MERCHANT_ID in api_token.py.
 
